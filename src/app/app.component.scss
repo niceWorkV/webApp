@@ -4,11 +4,17 @@
     font-weight: normal;
     height: 35px;
     margin: -10px;
-    background-color: #746bff; 
+    background-color: #4c40ff; 
     color: #ffffff;
-    
 }
 
 .toolbar h2 {
+    margin-left: 1em;
+}
+
+.toolbar h1 {
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
     margin-left: 1em;
 }

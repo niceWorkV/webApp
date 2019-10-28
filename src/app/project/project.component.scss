@@ -1,0 +1,46 @@
+.projects {
+    margin: 0 0 2em 0;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    padding: 0;
+    width: 15em;
+    color: #333333;
+    }
+
+.projects li {
+    cursor: pointer;
+    position: relative;
+    left: 0;
+    background-color: #f4f4f4;
+    margin: .5em;
+    padding: 0;
+    height: 1.6em;
+    border-radius: 4px;
+}
+
+.projects h2 {
+    padding: 10px;
+    color: #f4f4f4;
+}
+
+.button {
+    cursor: pointer;
+    color: #333333;
+    background-color: #d2d2d2;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 11px;
+    border: 1px #7a7a7a;
+    position: relative;
+    margin-right: 250px;
+}
+
+.menu {
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #b3b3b3;
+    padding: 10px;
+    width: 300px;
+    background-color: white;
+}
